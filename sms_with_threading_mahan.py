@@ -4,11 +4,9 @@ import threading
 banner = """
  ____________________________________________________
 |                                                    |
-| [--] Name: SMSomer                                 |
+| [--] Name: SMSbomer                                |
 |                                                    |
 | [--] Have Services: 51                             |
-|                                                    |
-| [--] Created by: https://github.com/yyasha         |
 |                                                    |
 | [--] Version: 1.0.6                                |
 |____________________________________________________|
